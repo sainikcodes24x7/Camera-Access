@@ -16,6 +16,7 @@ const constraints = {
       min: 1280,
       ideal: 1920,
       max: 2560,
+      facing mode
     },
     height: {
       min: 720,
